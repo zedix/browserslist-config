@@ -15,7 +15,7 @@
     "url": "https://github.com/zedix/browserslist-config/issues"
   },
   "keywords": [
-    "browserslist-shared-config",
+    "browserslist-shareable-config",
     "browserslist-config"
   ],
   "dependencies": {

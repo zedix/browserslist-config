@@ -8,7 +8,7 @@
 ## Installation
 
 ```
-$ yarn add --dev https://github.com/zedix/browserslist-config.git#v1.x.x
+$ yarn add --dev zedix/browserslist-config.git#v1.x.x
 ```
 
 ## Usage
