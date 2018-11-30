@@ -1,0 +1,24 @@
+{
+  "name": "@zedix/browserslist-config",
+  "version": "1.0.0",
+  "description": "@zedix's browserslist shareable config",
+  "homepage": "https://github.com/zedix/browserslist-config#readme",
+  "author": "@zedix",
+  "copyright": "Copyright (c) 2018-present",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zedix/browserslist-config"
+  },
+  "bugs": {
+    "url": "https://github.com/zedix/browserslist-config/issues"
+  },
+  "keywords": [
+    "browserslist-shared-config",
+    "browserslist-config"
+  ],
+  "dependencies": {
+    "browserslist": "^4.3.4"
+  }
+}
